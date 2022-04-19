@@ -7,5 +7,5 @@ trx|rx0 --> cpu0, t1|rx1 --> cpu1
 
 ## Usage
 ```
-$ sh sprite.sh <NIC nane here>
+$ sh sprite.sh <NIC name here>
 ```
